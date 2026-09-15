@@ -43,6 +43,6 @@ javac NumberGuessingGame.java
 java NumberGuessingGame
 ```
 
-Author
+## Author
 
 Harshit
